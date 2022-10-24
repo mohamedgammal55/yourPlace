@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6bd6fc69-3033-43cc-8f71-6bc19dd88abb" name="nurse" url="http://185.212.70.50">
+        <fileTransfer host="185.212.70.50" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6ade8681-ccf2-4959-8a98-4e7e1be4413f" name="donat" url="http://193.168.192.191">
+        <fileTransfer host="193.168.192.191" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="267960b9-7cdd-46f1-a11d-edcaff1500cb" name="Ebhar" url="http://45.130.228.154">
+        <fileTransfer host="45.130.228.154" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c9d4b353-3238-499d-b801-953071c4c78f" name="Just Ask" url="http://almiraeg.com">
+        <fileTransfer host="almiraeg.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="909ccfd5-d6f2-4afc-92af-5e21a5480444" name="betna" url="http://193.168.192.191">
+        <fileTransfer host="193.168.192.191" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e09ac26c-37a3-4a84-9840-374b3643523c" name="المهندس" url="http://212.107.17.86">
+        <fileTransfer host="212.107.17.86" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3ade00ea-c301-4f0a-8f7e-ddf60f99bbc6" name="skypark" url="http://2.57.89.24">
+        <fileTransfer host="2.57.89.24" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
